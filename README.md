@@ -1,2 +1,3 @@
-# Oracle_Logs_Integration
-Houses code for OCI's log collections pipeline.
+# Service Connector Hub function
+OCI function used for log forwarding. 
+This has been trimmed so that it can be imported directly
